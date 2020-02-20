@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<title>Glosario de Términos de Internet</title>
+</head>
+<body>
+<p><a href="#A">A</a>,<a href="#C">C</a>,<a href="#E">E</a>,<a href="#I">I</a></p>
+<a name="A"></a>
+<p>A</p>
+<p>ADSL: abreviatura de Asymmetric Digital Subscriber Line. Se trata de un método de transmisión de datos a través de la línea telefónica de cobre tradicional a velocidad alta. Los datos pueden ser descargados a distinta velocidad que son cargados, esta es la razón por la cual se le denomina asimétrico. Esta tecnología es adecuada para la Web, ya que es mucho mayor la cantidad de datos que se envían del servidor a un ordenador personal, que a la inversa. Existen distintas velocidades y en diferentes países se han implantado tecnologías como ADSL 2 y ADSL+2 que permiten un gran ancho de banda con capacidades para la transmisión de televisión y vídeo de alta calidad.
+Agente: tipo de software programado para rastrear Internet y realizar una función específica para el usuario. También se denomina robot. Los tipos más comunes de agentes son los programas llamados spiders y worms (arañas y gusanos), que transitan por Internet, recolectan la información e indizan los contenidos para crear sus propias bases de datos. Existen también agentes inteligentes con funciones más complejas, que son capaces de reconocer las preferencias de los usuarios para ayudarles de forma inteligente.
+Ancla/anclaje: en un hipertexto, es el punto de partida y de destino de un enlace.
+ANSI: American National Standards Institute. El banco de datos para el desarrollo voluntario de estándares en los EE.UU.
+Applet: pequeño programa hecho en lenguaje Java que se introduce en un archivo HTML.
+Archie: permite la búsqueda de información en los servidores de FTP anónimos. Se basa en la arquitectura cliente/servidor y da un nombre a ambos.
+ARP: Address Resolution Protocol. Protocolo que realiza la conversión de direcciones IP a direcciones de hardware de los dispositivos asociados.
+ARPANET: abreviatura de Advanced Research Projects Administration Network, el sistema de red informática del cual nació Internet. ARPANET comenzó en 1969 como un experimento del Ministerio de Defensa de los EE.UU. que probaba las redes de comunicación por medio de paquetes de información.
+ASCII: American Standard Code for Information Interchange o Código americano estándar para el intercambio de información. Se trata de un conjunto de normas de codificación de caracteres mediante números. Por ejemplo, para escribir la letra A debemos presionar la tecla Alt y a la vez el número 65. Con esta combinación podemos escribir muchas letras y signos que no figuran en el teclado, por ejemplo la tilde ~ se consigue tecleando Alt 126.</p>
+<a name="C"></a>
+<p>C</p> 
+CD-R: Compact Disc Grabable es un CD que permite una única escritura, es decir, permite grabar datos una sola vez. Tiene capacidad de grabar 700 MB u 80 minutos a una velocidad de 48X. Los datos grabados no pueden ser borrados.
+CD-ROM: Compact Disc Read Only Memory es un medio de almacenamiento óptico de sólo lectura.
+CD-RW: Compact Disc Rewriter. CD regrabable, esto es, que ofrece la posibilidad de grabar y borrar información.
+CERN: el CERN, Laboratorio de Física de Partículas fue el centro donde se desarrolló la World Wide Web, buscando construir un sistema de hipertexto e hipermedia. Actualmente la iniciativa en el desarrollo de especificaciones y software la lleva a cabo el  W3C Consortium.
+</p>
+<a name="E"></a>
+<p>E</p>
+<p>EAD: Encoding Archival Description. Método de descripción de metadatos para archivos.
+E-book (libro electrónico): libro en formato digital que, en algunos casos, requiere programas específicos para su lectura. Suele aprovechar las posibilidades del hipertexto, de los enlaces y del multimedia, y puede estar disponible en la red .
+E-mail: correo electrónico. Sistema de comunicación que permite el intercambio de mensajes, archivos y cualquier otra información, entre usuarios conectados a una red de ordenadores Internet o Intranet. Sólo es necesario un buzón y una dirección electrónica. Utiliza el protocolo de comunicación TCP/IP.
+Emoticón: símbolo gráfico que normalmente, si se mira de lado, representa un rostro humano en sus diversas expresiones, mediante el cual una persona puede mostrar su estado de ánimo en un medio "frío" como es el ordenador. Se construye por la combinación de varios signos de puntuación que se encuentran en el teclado. El más común es smiley : - )  este símbolo nació de la utilización de los caracteres ASCII (American Stándar Code for Information Interchange).</p>
+<a name="I"></a>
+<p>I</p>
+<p>Interfaz Gráfica de Usuario (GUI): componente de una aplicación informática que el usuario visualiza y a través de la cual opera con ella. Está formada por ventanas, botones, menús e iconos, entre otros elementos.
+Interfaz de Usuario Basada en Web (WUI): Interfaz gráfica de usuario con la apariencia típica de una página web.
+Interfaz para Programas de Aplicación (API): conjunto de convenciones de programación que definen cómo se solicita un servicio desde un programa. 
+internet: en minúsculas, es un grupo de redes conectadas juntas.</p>
+</body>
+</html>
